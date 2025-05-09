@@ -14,7 +14,7 @@ int factorial(int n){
 
 int main(){
 
-    cout<<factorial(100);
+    cout<<factorial(100); //this will find the factorial of given number
 
 return 0;
 }
