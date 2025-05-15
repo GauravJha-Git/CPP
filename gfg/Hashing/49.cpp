@@ -43,11 +43,10 @@ We initialize the map with {0:1} to handle cases where subarray starts from inde
 */
 
 
-// Header Files
+
 #include <bits/stdc++.h>
 using namespace std;
 
-// User function Template for C++
 class Solution {
   public:
     int countSubarrays(vector<int> &arr, int k) {
